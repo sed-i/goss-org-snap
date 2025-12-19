@@ -4,6 +4,8 @@ license: Apache-2.0
 website:
   - https://goss.rocks
   - https://github.com/sed-i/goss-org-snap
+contact:
+  - https://github.com/sed-i/
 source-code:
   - https://github.com/goss-org/goss
 base: core24
